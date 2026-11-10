@@ -1,0 +1,1 @@
+"""Local video cutter package."""

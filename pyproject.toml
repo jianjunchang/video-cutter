@@ -1,0 +1,9 @@
+[project]
+name = "local-video-cutter"
+version = "0.1.0"
+description = "Local HTML5 video cutter powered by ffmpeg"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.uv]
+package = false
